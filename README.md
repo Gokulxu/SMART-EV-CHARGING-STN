@@ -57,3 +57,5 @@ You can test the simulation using two distinct interactive methods inside Proteu
 * Press **RB0** to simulate physical connector insertion.
 * Press **RB1** to manually toggle between AC and DC charging speeds.
 * Press **RB2** to initiate a physical E-Stop. The motor reverses immediately to release the connector, and the system shuts down.
+
+## Circuit Diagram
